@@ -41,4 +41,4 @@ Contributions are always welcome and highly encouraged.
 
 MIT - See [LICENSE](LICENSE) for more information.
 
-[auth-docs]: https://www.myharmony.com/en-us/harmony-api?ab-ux=5
+[auth-docs]: http://developer.logitech.com/
