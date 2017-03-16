@@ -1,0 +1,19 @@
+Metrics/LineLength:
+  Max: 107
+
+Style/BracesAroundHashParameters:
+  Exclude:
+    - "lib/omniauth/strategies/harmony.rb"
+
+Style/Documentation:
+  Exclude:
+    - "spec/**/*"
+    - "test/**/*"
+    - "lib/omniauth/strategies/harmony.rb"
+
+Style/EmptyLinesAroundClassBody:
+  Enabled: true
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes
