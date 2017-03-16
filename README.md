@@ -2,7 +2,7 @@
 
 Strategy to authenticate with Harmony via OAuth2 in OmniAuth
 
-For more details, read the [Harmony authorization documentation][auth-docs].
+For more details, visit the [Logitech developer site][developer-site].
 
 ## Install
 
@@ -41,4 +41,4 @@ Contributions are always welcome and highly encouraged.
 
 MIT - See [LICENSE](LICENSE) for more information.
 
-[auth-docs]: http://developer.logitech.com/
+[developer-site]: http://developer.logitech.com/
